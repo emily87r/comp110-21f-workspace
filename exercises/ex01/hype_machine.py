@@ -1,6 +1,6 @@
-""" A program to hype up COMP110 students."""
+"""A program to hype up COMP110 students."""
 
-_author_: str = "730240336"
+__author__ = "730240336"
 
 name: str = input("What is your name? ")
 print(name + " is a beast!")

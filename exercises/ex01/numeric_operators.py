@@ -1,6 +1,6 @@
 """A program to demonstrate how numeric operators can be used."""
 
-_author_: str = "730240336"
+__author__ = "730240336"
 
 left: str = input("Give me a random number, please!")
 right: str = input("Give me another random number, please!")
