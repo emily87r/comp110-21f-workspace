@@ -13,9 +13,9 @@ else:
     if fortune > 50:
         print("Good things are coming!")
     else:
-        if fortune < 25: 
-            print("Look out for a shooting star."
-        else:
+        if fortune > 25: 
+            print("Look out for a shooting star.")
+        else: 
             print("Something crazy is going to happen.")
 
-print("Now, go spread positive vibes")
+print("Now, go spread positive vibes!")
